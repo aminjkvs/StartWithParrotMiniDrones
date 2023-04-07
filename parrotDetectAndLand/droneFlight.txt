@@ -1,0 +1,415 @@
+/tmp/.dragon-prog.lock locked.
+Failed to enable 0 for TANGO
+Failed to enable 0 for TALA
+
+----------------------------------------------
+     MPU FACTORY CALIB:
+----------------------------------------------
+sizeof (HAL_mpu6050_factory_file_calibration_t) = 54
+ SIZE     =       52
+ VERSION  =        1 = 0x    1
+ CHECKSUM =    30144 = 0x 75C0
+ gyro_offset : -0.00714 ; +0.01586 ; +0.00404
+ gyro_gain   : +0.99650 ; +0.99567 ; +0.99966
+ acc_offset  : -0.35508 ; -0.04808 ; -0.12587
+ acc_gain    : +1.00325 ; +1.00117 ; +0.98074
+----------------------------------------------
+
+Setting PWM frequency: reg value 0x4
+INIT libVision with [160 x 120]
+=========== LIBRSEDU UPDATE ================
+=========== LIBRSEDU UPDATED ================
+ Custom control code found : yes
+ Custom image processing code found : yes
+ Custom optical flow fetch code found : yes
+rsedu_control(): Control processing thread id = 1081840736 
+rsedu_control(): Control thread policy = 0 pri=0
+rsedu_control(): Battery output voltage Integrated:  3.99 V - 100 percents
+rsedu_control(): used: 0, users: 0, gyrotemp 53.480000, acctemp 0.000000, presstmp 42.116987 
+rsedu_control(): Waiting for optical flow connection...
+rsedu_control(): Got optical flow connection, 18!
+create_referencevalserver_thread(): stack size before reference value thread creation 8388608 err=0
+create_referencevalserver_thread(): reference value server thread id = 1081840736 
+create_referencevalserver_thread(): reference value server  policy = 0 pri=0
+create_referencevalserver_thread(): Reference Server Thread created successfully
+create_referencevalserver_thread(): stacksize after reference thread creation 16384 
+rsedu_control(): Waiting for connection request from host! 
+
+
+ **** Sensor Values **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101766.351562pascal, gyrotemp: 53.512352celsius
+rsedu_control(): gyro x: -0.012718rad/s, y: 0.032831rad/s, z: 0.007443rad/s
+rsedu_control(): accel x: -0.034413m/s2, y: -0.104412m/s2, z: -9.095608m/s2
+rsedu_control(): Battery output voltage Integrated:  3.99V - 100 percents
+keyboardserver_thread(): Entered the Keyboard Server thread... 
+keyboardserver_thread(): Successfully created socket... 
+keyboardserver_thread(): Bind socket... 
+keyboardserver_thread(): Bind completed .. listening to the socket !
+rsedu_of(): SUCCESS optical flow FIFO exists! 
+create_image_thread(): Image thread policy = 2 and priority=10
+create_image_thread(): Image thread inherit scheduler option error=0
+create_image_thread(): value of detach status=0
+create_image_thread(): stacksize before thread creation err=0
+create_image_thread(): value of scheduler policy status=0
+create_image_thread(): value of scheduler param status=0
+create_image_thread(): Image Thread created successfully
+rsedu_control(): Waiting for connection request from host! 
+
+
+ **** Sensor Values **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101769.140625pascal, gyrotemp: 53.521175celsius
+rsedu_control(): gyro x: -0.013779rad/s, y: 0.033891rad/s, z: 0.006379rad/s
+rsedu_control(): accel x: -0.048825m/s2, y: -0.075648m/s2, z: -9.102653m/s2
+rsedu_control(): Battery output voltage Integrated:  3.99V - 100 percents
+rsedu_control(): Waiting for connection request from host! 
+
+
+ **** Sensor Values **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101769.140625pascal, gyrotemp: 53.582943celsius
+rsedu_control(): gyro x: -0.014840rad/s, y: 0.033891rad/s, z: 0.006379rad/s
+rsedu_control(): accel x: -0.048825m/s2, y: -0.104412m/s2, z: -9.099130m/s2
+rsedu_control(): Battery output voltage Integrated:  3.99V - 100 percents
+rsedu_control(): Waiting for connection request from host! 
+
+
+ **** Sensor Values **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101765.960938pascal, gyrotemp: 53.644707celsius
+rsedu_control(): gyro x: -0.013779rad/s, y: 0.033891rad/s, z: 0.007443rad/s
+rsedu_control(): accel x: -0.047624m/s2, y: -0.104412m/s2, z: -9.081519m/s2
+rsedu_control(): Battery output voltage Integrated:  3.99V - 100 percents
+rsedu_of(): flow: (-0.001369, 0.000229, 0.000000, 1.000000, 0.500000)
+rsedu_control(): Waiting for connection request from host! 
+
+
+ **** Sensor Values **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101784.781250pascal, gyrotemp: 53.700588celsius
+rsedu_control(): gyro x: -0.013779rad/s, y: 0.033891rad/s, z: 0.006379rad/s
+rsedu_control(): accel x: -0.036815m/s2, y: -0.079243m/s2, z: -9.099130m/s2
+rsedu_control(): Battery output voltage Integrated:  3.99V - 100 percents
+rsedu_control(): Waiting for connection request from host! 
+
+
+ **** Sensor Values **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101770.125000pascal, gyrotemp: 53.750587celsius
+rsedu_control(): gyro x: -0.012718rad/s, y: 0.032831rad/s, z: 0.007443rad/s
+rsedu_control(): accel x: -0.023604m/s2, y: -0.079243m/s2, z: -9.103827m/s2
+rsedu_control(): Battery output voltage Integrated:  3.98V - 100 percents
+rsedu_control(): Waiting for connection request from host! 
+
+
+ **** Sensor Values **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101777.867188pascal, gyrotemp: 53.812351celsius
+rsedu_control(): gyro x: -0.013779rad/s, y: 0.033891rad/s, z: 0.007443rad/s
+rsedu_control(): accel x: -0.036815m/s2, y: -0.105610m/s2, z: -9.100304m/s2
+rsedu_control(): Battery output voltage Integrated:  3.99V - 100 percents
+rsedu_control(): Waiting for connection request from host! 
+
+
+ **** Sensor Values **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101782.125000pascal, gyrotemp: 53.847649celsius
+rsedu_control(): gyro x: -0.014840rad/s, y: 0.032831rad/s, z: 0.005315rad/s
+rsedu_control(): accel x: -0.034413m/s2, y: -0.102015m/s2, z: -9.115566m/s2
+rsedu_control(): Battery output voltage Integrated:  3.99V - 100 percents
+rsedu_of(): flow: (0.001106, 0.000258, 0.000000, 1.000000, 0.500000)
+rsedu_control(): Waiting for connection request from host! 
+
+
+ **** Sensor Values **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101776.679688pascal, gyrotemp: 53.935883celsius
+rsedu_control(): gyro x: -0.013779rad/s, y: 0.033891rad/s, z: 0.006379rad/s
+rsedu_control(): accel x: -0.013997m/s2, y: -0.091228m/s2, z: -9.110870m/s2
+rsedu_control(): Battery output voltage Integrated:  3.98V - 100 percents
+rsedu_control(): Waiting for connection request from host! 
+
+
+ **** Sensor Values **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101778.687500pascal, gyrotemp: 53.980000celsius
+rsedu_control(): gyro x: -0.012718rad/s, y: 0.033891rad/s, z: 0.006379rad/s
+rsedu_control(): accel x: -0.026006m/s2, y: -0.109206m/s2, z: -9.109696m/s2
+rsedu_control(): Battery output voltage Integrated:  3.99V - 100 percents
+rsedu_control(): Waiting for connection request from host! 
+
+
+ **** Sensor Values **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101771.460938pascal, gyrotemp: 54.012352celsius
+rsedu_control(): gyro x: -0.013779rad/s, y: 0.032831rad/s, z: 0.006379rad/s
+rsedu_control(): accel x: -0.050026m/s2, y: -0.088831m/s2, z: -9.079171m/s2
+rsedu_control(): Battery output voltage Integrated:  3.98V - 100 percents
+rsedu_of(): flow: (0.000282, 0.000184, 0.000000, 1.000000, 0.500000)
+rsedu_control(): Waiting for connection request from host! 
+
+
+ **** Sensor Values **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101775.164062pascal, gyrotemp: 54.094707celsius
+rsedu_control(): gyro x: -0.013779rad/s, y: 0.032831rad/s, z: 0.006379rad/s
+rsedu_control(): accel x: -0.022404m/s2, y: -0.094824m/s2, z: -9.068604m/s2
+rsedu_control(): Battery output voltage Integrated:  3.98V - 100 percents
+rsedu_control(): Waiting for connection request from host! 
+
+
+ **** Sensor Values **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101775.148438pascal, gyrotemp: 54.132942celsius
+rsedu_control(): gyro x: -0.013779rad/s, y: 0.034950rad/s, z: 0.007443rad/s
+rsedu_control(): accel x: -0.038016m/s2, y: -0.110404m/s2, z: -9.103827m/s2
+rsedu_control(): Battery output voltage Integrated:  3.99V - 100 percents
+rsedu_control(): Waiting for connection request from host! 
+
+
+ **** Sensor Values **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101765.203125pascal, gyrotemp: 54.182941celsius
+rsedu_control(): gyro x: -0.013779rad/s, y: 0.034950rad/s, z: 0.007443rad/s
+rsedu_control(): accel x: -0.044021m/s2, y: -0.106809m/s2, z: -9.085041m/s2
+rsedu_control(): Battery output voltage Integrated:  3.98V - 100 percents
+keyboardserver_thread(): Received connection from the host! 
+keyboardserver_thread(): Successfully created GUI socket... 
+keyboardserver_thread(): Bind GUI socket...
+keyboardserver_thread(): Bind completed .. listening to the GUI socket !
+rsedu_control(): Waiting for takeoff command from host! 
+ TakeOff Sequence Initiated !! 
+The flight duration is set to Simulation Stop Time of = 100 seconds and powergain is set to = 100
+rsedu_control(): Simulink model init started! 
+rsedu_control(): Simulink model init completed! 
+rsedu_control(): Initializing Calibration Data! 
+rsedu_control(): Drone Motors Activated! 
+keyboardserver_thread(): Received connection to GUI from the host! 
+rsedu_of(): flow: (0.000747, 0.000447, 0.000000, 1.000000, 0.500000)
+rsedu_control(): Calibrating Data . . . 
+rsedu_control(): Batterylevel: 100.000000
+rsedu_control(): Sensorcal: -0.032287 :: -0.094627 :: -9.088254 :: -0.013851 :: 0.033409 :: 0.007115 :: 101774.109375 :: 0.000000 
+ *************************************** Data_block_start *************************************************** 
+rsedu_control(): Motors Powered. Ready for Take-Off ! 
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 91ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 86ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 89ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 76ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 79ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 85ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 89ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 95ms
+
+ **** Sensor Values when counter = 600 **** 
+rsedu_control(): sonar altitude: 0.988133meters, pressure: 101764.179688pascal, gyrotemp: 54.306469celsius
+rsedu_control(): gyro x: -0.106043rad/s, y: 0.031772rad/s, z: 0.014890rad/s
+rsedu_control(): accel x: -0.788636m/s2, y: 0.457685m/s2, z: -6.918921m/s2
+rsedu_control(): Battery output voltage Integrated:  3.80V - 100 percents
+rsedu_control(): motor values : 178.893204 -210.497910 171.855164 -200.364151
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 108ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 104ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 97ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 91ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 96ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 96ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 94ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 101ms
+
+ **** Sensor Values when counter = 800 **** 
+rsedu_control(): sonar altitude: 1.079365meters, pressure: 101770.046875pascal, gyrotemp: 54.403530celsius
+rsedu_control(): gyro x: 0.004250rad/s, y: 0.043427rad/s, z: 0.023401rad/s
+rsedu_control(): accel x: 0.342698m/s2, y: -0.936171m/s2, z: -7.790066m/s2
+rsedu_control(): Battery output voltage Integrated:  3.75V - 93 percents
+rsedu_control(): motor values : 234.174896 -243.857895 222.274994 -228.671677
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 123ms
+rsedu_vision(): Entered... 
+rsedu_of(): flow: (-0.016553, 0.016400, 0.000000, 1.000000, 0.500000)
+rsedu_vision(): Exited. Time taken to process the image = 99ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 91ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 100ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 96ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 97ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 99ms
+rsedu_vision(): Entered... 
+
+ **** Sensor Values when counter = 1000 **** 
+rsedu_control(): sonar altitude: 0.918745meters, pressure: 101754.953125pascal, gyrotemp: 54.609413celsius
+rsedu_control(): gyro x: -0.026505rad/s, y: 0.030712rad/s, z: -0.034048rad/s
+rsedu_control(): accel x: 0.642946m/s2, y: 0.027423m/s2, z: -7.739582m/s2
+rsedu_control(): Battery output voltage Integrated:  3.74V - 92 percents
+rsedu_control(): motor values : 209.826553 -276.399719 197.833679 -260.980927
+rsedu_vision(): Exited. Time taken to process the image = 126ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 98ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 91ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 101ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 95ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 95ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 96ms
+rsedu_vision(): Entered... 
+
+ **** Sensor Values when counter = 1200 **** 
+rsedu_control(): sonar altitude: 0.988133meters, pressure: 101755.000000pascal, gyrotemp: 54.877060celsius
+rsedu_control(): gyro x: -0.043473rad/s, y: 0.049785rad/s, z: 0.038295rad/s
+rsedu_control(): accel x: 0.482013m/s2, y: -0.806733m/s2, z: -8.731652m/s2
+rsedu_control(): Battery output voltage Integrated:  3.71V - 89 percents
+rsedu_control(): motor values : 249.455444 -288.527985 232.244629 -281.882111
+rsedu_vision(): Exited. Time taken to process the image = 109ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 125ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 99ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 94ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 94ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 90ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 96ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 95ms
+rsedu_vision(): Entered... 
+
+ **** Sensor Values when counter = 1400 **** 
+rsedu_control(): sonar altitude: 1.085790meters, pressure: 101760.625000pascal, gyrotemp: 55.132942celsius
+rsedu_control(): gyro x: -0.113467rad/s, y: 0.058262rad/s, z: 0.112765rad/s
+rsedu_control(): accel x: -0.004389m/s2, y: -0.078045m/s2, z: -6.368292m/s2
+rsedu_control(): Battery output voltage Integrated:  3.84V - 100 percents
+rsedu_control(): motor values : 116.678474 -54.879787 88.446198 -74.714752
+rsedu_vision(): Exited. Time taken to process the image = 107ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 124ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 90ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 95ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 97ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 90ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 90ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 91ms
+rsedu_vision(): Entered... 
+
+ **** Sensor Values when counter = 1600 **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101772.914062pascal, gyrotemp: 55.374119celsius
+rsedu_control(): gyro x: 0.524958rad/s, y: -0.015911rad/s, z: -0.076602rad/s
+rsedu_control(): accel x: -0.739395m/s2, y: 2.091241m/s2, z: -5.122626m/s2
+rsedu_control(): Battery output voltage Integrated:  3.91V - 100 percents
+rsedu_control(): motor values : 10.000000 -10.000000 10.000000 -10.000000
+rsedu_vision(): Exited. Time taken to process the image = 104ms
+rsedu_of(): flow: (0.020368, -0.020876, 0.000000, 1.000000, 0.500000)
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 107ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 91ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 93ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 94ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 87ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 94ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 94ms
+rsedu_vision(): Entered... 
+
+ **** Sensor Values when counter = 1800 **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101773.906250pascal, gyrotemp: 55.588825celsius
+rsedu_control(): gyro x: -0.022263rad/s, y: 0.041308rad/s, z: 0.010634rad/s
+rsedu_control(): accel x: -0.451158m/s2, y: -0.259018m/s2, z: -9.076823m/s2
+rsedu_control(): Battery output voltage Integrated:  3.89V - 100 percents
+rsedu_control(): motor values : 103.452812 -10.000000 68.760918 -10.000000
+rsedu_vision(): Exited. Time taken to process the image = 100ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 106ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 90ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 95ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 95ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 93ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 95ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 90ms
+rsedu_vision(): Entered... 
+
+ **** Sensor Values when counter = 2000 **** 
+rsedu_control(): sonar altitude: 0.000000meters, pressure: 101790.101562pascal, gyrotemp: 55.709412celsius
+rsedu_control(): gyro x: -0.005295rad/s, y: 0.032831rad/s, z: 0.010634rad/s
+rsedu_control(): accel x: -0.325053m/s2, y: -0.014524m/s2, z: -9.333940m/s2
+rsedu_control(): Battery output voltage Integrated:  3.82V - 100 percents
+rsedu_control(): motor values : 269.602448 -10.000000 234.910568 -10.000000
+rsedu_vision(): Exited. Time taken to process the image = 101ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 106ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 93ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 96ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 90ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 95ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 95ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 92ms
+rsedu_vision(): Entered... 
+
+ **** Sensor Values when counter = 2200 **** 
+rsedu_control(): sonar altitude: 1.360771meters, pressure: 101785.101562pascal, gyrotemp: 55.803528celsius
+rsedu_control(): gyro x: -0.068925rad/s, y: 0.078395rad/s, z: -0.477678rad/s
+rsedu_control(): accel x: 0.258629m/s2, y: -0.184711m/s2, z: -8.634207m/s2
+rsedu_control(): Battery output voltage Integrated:  3.78V - 98 percents
+rsedu_control(): motor values : 329.710663 -10.000000 295.018768 -10.000000
+rsedu_vision(): Exited. Time taken to process the image = 101ms
+rsedu_vision(): Entered... 
+rsedu_vision(): Exited. Time taken to process the image = 105ms
+rsedu_vision(): Entered... 
+rsedu_control(): Flight aborted due to error condition 1 !
+	rsedu_control():Saving logged data after 2254 cycles... 
+*** Log variable rt_tout has wrapped 1 times
+    using a circular buffer of size 1000
+*** Log variable time has wrapped 1 times
+    using a circular buffer of size 1000
+*** Log variable values has wrapped 1 times
+    using a circular buffer of size 1000
+*** Log variable values has wrapped 1 times
+    using a circular buffer of size 1000
+** created /data/edu/RSdata.mat **
+
+rsedu_control(): Saving logged data... DONE 
+rsedu_control(): Flight Completed after 2254 cycles ... DONE 
+RSEDU_image_processing: Average image processing time is 96ms 
+rsedu_control(): Good night! 
+ 
+Shut down and clean up
+----------------------
+Setting PWM frequency: reg value 0x0
+Setting PWM 0 0 0 0
+Flushing filesystems...
+    flush done.
+Dragon returned = 
+############################

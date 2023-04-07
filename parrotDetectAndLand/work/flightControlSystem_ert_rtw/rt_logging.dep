@@ -1,0 +1,26 @@
+rt_logging.o rt_logging.o: \
+ C:/PROGRA~1/MATLAB/R2022a/rtw/c/src/rt_logging.c \
+ C:/PROGRA~1/MATLAB/R2022a/rtw/c/src/rt_logging.h \
+ C:/Users/Leo/MATLAB/Projects/examples/parrotMinidroneCompetition1/work/flightControlSystem_ert_rtw/rtwtypes.h \
+ C:/Users/Leo/MATLAB/Projects/examples/parrotMinidroneCompetition1/work/flightControlSystem_ert_rtw/builtin_typeid_types.h \
+ C:/Users/Leo/MATLAB/Projects/examples/parrotMinidroneCompetition1/work/flightControlSystem_ert_rtw/rtwtypes.h \
+ C:/Users/Leo/MATLAB/Projects/examples/parrotMinidroneCompetition1/work/flightControlSystem_ert_rtw/multiword_types.h \
+ C:/PROGRA~1/MATLAB/R2022a/rtw/c/src/rt_mxclassid.h \
+ C:/PROGRA~1/MATLAB/R2022a/simulink/include/rtw_matlogging.h \
+ C:/PROGRA~1/MATLAB/R2022a/simulink/include/sl_types_def.h
+
+C:/PROGRA~1/MATLAB/R2022a/rtw/c/src/rt_logging.h:
+
+C:/Users/Leo/MATLAB/Projects/examples/parrotMinidroneCompetition1/work/flightControlSystem_ert_rtw/rtwtypes.h:
+
+C:/Users/Leo/MATLAB/Projects/examples/parrotMinidroneCompetition1/work/flightControlSystem_ert_rtw/builtin_typeid_types.h:
+
+C:/Users/Leo/MATLAB/Projects/examples/parrotMinidroneCompetition1/work/flightControlSystem_ert_rtw/rtwtypes.h:
+
+C:/Users/Leo/MATLAB/Projects/examples/parrotMinidroneCompetition1/work/flightControlSystem_ert_rtw/multiword_types.h:
+
+C:/PROGRA~1/MATLAB/R2022a/rtw/c/src/rt_mxclassid.h:
+
+C:/PROGRA~1/MATLAB/R2022a/simulink/include/rtw_matlogging.h:
+
+C:/PROGRA~1/MATLAB/R2022a/simulink/include/sl_types_def.h:
