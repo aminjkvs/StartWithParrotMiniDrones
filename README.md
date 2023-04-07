@@ -1,8 +1,8 @@
 # DetectAndLandParrot
-Detect Object and Land Parrot Minidrone in Simulink
+Autonomous object detection and landing with Parrot Rolling Spider and Matlab Simulink
 
 # How To
-Register at MathWorks, Installation, Add-on Packages, Setup Hardware (Fully charged battery and bluetooth connection)
+Register at MathWorks, Installation, Add-on Packages, Setup Hardware (fully charged battery and bluetooth connection)
 Import parrotDetectAndLand as new project, execute parrotDetectAndLand.prj to simulate and deploy on Minidrone  
 
 # Installation
