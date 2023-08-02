@@ -1,5 +1,5 @@
 # DetectAndLandParrot
-Autonomous object detection and landing with Parrot Rolling Spider and Matlab Simulink
+A 10-min recording about the implementation of "Autonomous object detection and landing with Parrot Rolling Spider and Matlab Simulink" can be found here: https://youtu.be/IItrpmtE190 (presented at ESCS 2023 Las Vegas, USA, July 24-27 Embedded Systems, Cyber-physical Systems, & Applications)
 
 # How To
 
